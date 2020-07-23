@@ -1,3 +1,3 @@
 FROM ubuntu:20.04
 
-RUN echo hello
+RUN echo hello world
